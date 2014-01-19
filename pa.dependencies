@@ -166,5 +166,11 @@
         "repository":   "TheMuppets/proprietary_vendor_sony",
         "target_path":  "vendor/sony",
         "revision":     "cm-11.0"
+    },
+    {
+        "remote":       "github",
+        "repository":   "CyanogenMod/android_frameworks_rs",
+        "target_path":  "frameworks/rs",
+         "revision":    "cm-11.0"
     }
 ]
