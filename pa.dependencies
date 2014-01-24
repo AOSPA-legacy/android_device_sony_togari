@@ -37,6 +37,12 @@
     },
     {
         "remote":       "github",
+        "repository":   "CyanogenMod/android_hardware_qcom_bt",
+        "target_path":  "hardware/qcom/bt",
+        "revision":     "cm-11.0"
+    },
+    {
+        "remote":       "github",
         "repository":   "CyanogenMod/android_hardware_qcom_audio-caf",
         "target_path":  "hardware/qcom/audio-caf",
         "revision":     "cm-11.0"
@@ -151,6 +157,12 @@
     },
     {
         "remote":       "github",
+        "repository":   "CyanogenMod/android_external_wpa_supplicant_8_ti",
+        "target_path":  "external/wpa_supplicant_8_ti",
+         "revision":    "cm-11.0"
+    },
+    {
+        "remote":       "github",
         "repository":   "CyanogenMod/Superuser",
         "target_path":  "external/koush/Superuser",
          "revision":    "cm-11.0"
@@ -166,11 +178,5 @@
         "repository":   "TheMuppets/proprietary_vendor_sony",
         "target_path":  "vendor/sony",
         "revision":     "cm-11.0"
-    },
-    {
-        "remote":       "github",
-        "repository":   "CyanogenMod/android_frameworks_rs",
-        "target_path":  "frameworks/rs",
-         "revision":    "cm-11.0"
     }
 ]
