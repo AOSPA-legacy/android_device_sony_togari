@@ -7,7 +7,7 @@
     },
     {
         "remote":       "github",
-        "repository":   "CyanogenMod/android_device_sony_rhine-common",
+        "repository":   "AOSPA-legacy/android_device_sony_rhine-common",
         "target_path":  "device/sony/rhine-common",
         "revision":     "cm-11.0"
     },
@@ -21,6 +21,12 @@
         "remote":       "github",
         "repository":   "CyanogenMod/android_device_sony_qcom-common",
         "target_path":  "device/sony/qcom-common",
+        "revision":     "cm-11.0"
+    },
+    {
+        "remote":       "github",
+        "repository":   "CyanogenMod/android_device_qcom_common",
+        "target_path":  "device/qcom/common",
         "revision":     "cm-11.0"
     },
     {
