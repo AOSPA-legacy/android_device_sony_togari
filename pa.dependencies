@@ -67,6 +67,12 @@
     },
     {
         "remote":       "github",
+        "repository":   "CyanogenMod/android_hardware_qcom_display-caf-new",
+        "target_path":  "hardware/qcom/display-caf-new",
+        "revision":     "cm-11.0"
+    },
+    {
+        "remote":       "github",
         "repository":   "CyanogenMod/android_hardware_qcom_keymaster",
         "target_path":  "hardware/qcom/keymaster",
         "revision":     "cm-11.0"
@@ -87,6 +93,12 @@
         "remote":       "github",
         "repository":   "CyanogenMod/android_hardware_qcom_media-caf",
         "target_path":  "hardware/qcom/media-caf",
+        "revision":     "cm-11.0"
+    },
+    {
+        "remote":       "github",
+        "repository":   "CyanogenMod/android_hardware_qcom_media-caf-new",
+        "target_path":  "hardware/qcom/media-caf-new",
         "revision":     "cm-11.0"
     },
     {
